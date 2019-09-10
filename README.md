@@ -1,2 +1,2 @@
 # Coursera_Capstone
-how to create a repository 
+Creating a repository for coursera data science certificate 
